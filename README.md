@@ -2,6 +2,10 @@
 
 Guide for deploying a Kafka server and a Kafka UI using Docker.  
 
+It's not recommended to set up in a Windows environment due to the issues on the official GitHub:
+- [KAFKA-1194: Fix renaming open files on Windows](https://github.com/apache/kafka/pull/6329)
+- [KAFKA-1194: changes needed to run on Windows](https://github.com/apache/kafka/pull/12331)
+
 ## Overview
 
 - Message Quene: Kafka v3.2.0

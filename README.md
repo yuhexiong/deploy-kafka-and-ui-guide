@@ -1,5 +1,8 @@
 # Deploy Kafka And UI Guide
 
+**(also provided Traditional Chinese version document [README-CH.md](README-CH.md).)**
+
+
 Guide for deploying a Kafka server and a Kafka UI using Docker.  
 
 It's not recommended to set up in a Windows environment due to the issues on the official GitHub:
